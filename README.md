@@ -1,9 +1,4 @@
 # shell-simulation-
-/*Authors:
-Yan Ho[RedID: 826654745]
-Yan Ho Edoras: cssc1429
-Jenny Nguyen[RedID: 826622622]
-Jenny Nguyen Edoras: cssc1451
 
 README.txt
 
