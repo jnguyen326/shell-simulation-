@@ -1,13 +1,4 @@
-/*Authors:
-Yan Ho[RedID: 826654745]
-Yan Ho Edoras: cssc1429
-Jenny Nguyen[RedID: 826622622]
-Jenny Nguyen Edoras: cssc1451
 
-Course
-- CS 480 Summer 2023 Section 01
-- Programming Assignment #2 (a2)
-*/
 
 #ifndef main_H
 #define main_H
